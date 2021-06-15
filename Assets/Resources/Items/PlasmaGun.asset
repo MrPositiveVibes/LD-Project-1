@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
-  m_Name: BigGun
+  m_Name: PlasmaGun
   m_EditorClassIdentifier: 
-  ItemID: BigGun
+  ItemID: PlasmaGun
   TargetInventoryName: MainInventory
   Usable: 0
   Consumable: 1
@@ -22,11 +22,11 @@ MonoBehaviour:
   CanMoveObject: 1
   CanSwapObject: 1
   Quantity: 1
-  ItemName: BigGun
-  ShortDescription: This is a big gun
-  Description: A big gun that can destroy everything it hits.
-  Icon: {fileID: 21300026, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
-  Prefab: {fileID: 1157634356909016, guid: b35fde83f1267154ba6ac1676a3aa074, type: 3}
+  ItemName: Plasma Gun
+  ShortDescription: This is a ranged weapon.
+  Description: A weapon firing a harmful ball of plasma.
+  Icon: {fileID: 21300028, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
+  Prefab: {fileID: 0}
   DropProperties:
     Shape: 0
     NormalToSpawnPlane: {x: 0, y: 1, z: 0}
@@ -76,7 +76,7 @@ MonoBehaviour:
   MovedSound: {fileID: 0}
   DroppedSound: {fileID: 0}
   UseDefaultSoundsIfNull: 1
-  EquippableWeapon: {fileID: 114854466093207968, guid: 9ca139c68ff26d743bdbdf3761205d47,
+  EquippableWeapon: {fileID: 7313187568452821129, guid: 01aa4215c0f1c3b4ba1bf666c94d3779,
     type: 3}
   AutoEquipMode: 0
   HandleWeaponID: 1
