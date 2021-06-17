@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1472130053336478
+--- !u!1 &4149897911229158701
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,40 +8,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4133965223222142}
-  - component: {fileID: 212850589034612008}
-  - component: {fileID: 58712065003539054}
-  - component: {fileID: 114090134978246500}
-  - component: {fileID: 114166795042413076}
+  - component: {fileID: 4151460262151693261}
+  - component: {fileID: 4280230226471124379}
+  - component: {fileID: 4126082871985681117}
+  - component: {fileID: 4037205017203462103}
+  - component: {fileID: 4037414210831032999}
   m_Layer: 0
-  m_Name: RubyGemPicker
+  m_Name: InventoryCoinPicker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4133965223222142
+--- !u!4 &4151460262151693261
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1472130053336478}
+  m_GameObject: {fileID: 4149897911229158701}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 115.08, y: -35.64, z: 0}
+  m_LocalPosition: {x: 105.34727, y: -42.432472, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 8055269589406627325}
+  - {fileID: 6221808434359160142}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &212850589034612008
+--- !u!212 &4280230226471124379
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1472130053336478}
+  m_GameObject: {fileID: 4149897911229158701}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1a9ba094dc0a4fd469dbec144a378db6, type: 3}
+  m_Sprite: {fileID: 21300026, guid: d926550b6fca5488b9b76f2733af1c45, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -87,13 +87,13 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!58 &58712065003539054
+--- !u!58 &4126082871985681117
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1472130053336478}
+  m_GameObject: {fileID: 4149897911229158701}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -103,13 +103,13 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.41
---- !u!114 &114090134978246500
+--- !u!114 &4037205017203462103
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1472130053336478}
+  m_GameObject: {fileID: 4149897911229158701}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: df1508296b0904b1ba069c225eb6482a, type: 3}
@@ -123,13 +123,13 @@ MonoBehaviour:
   IgnoreCheckpointsAlwaysRespawn: 1
   AssociatedCheckpoints: []
   RespawnFeedback: {fileID: 0}
---- !u!114 &114166795042413076
+--- !u!114 &4037414210831032999
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1472130053336478}
+  m_GameObject: {fileID: 4149897911229158701}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c2d96dc71d76c4e2ab8eb19d92d40d5f, type: 3}
@@ -139,8 +139,8 @@ MonoBehaviour:
   Quantity: 1
   PickableIfInventoryIsFull: 0
   DisableObjectWhenDepleted: 1
-  PickFeedbacks: {fileID: 9087652215105186092}
---- !u!1 &6259120513008189322
+  PickFeedbacks: {fileID: 5156497636482978207}
+--- !u!1 &8020488985742788409
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -148,10 +148,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8055269589406627325}
-  - component: {fileID: 9087652215105186092}
-  - component: {fileID: 3809960975874769257}
-  - component: {fileID: 6885100597620220887}
+  - component: {fileID: 6221808434359160142}
+  - component: {fileID: 5156497636482978207}
+  - component: {fileID: 958685763875813850}
+  - component: {fileID: 7358484107148188516}
   m_Layer: 0
   m_Name: PickFeedback
   m_TagString: Untagged
@@ -159,35 +159,35 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8055269589406627325
+--- !u!4 &6221808434359160142
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6259120513008189322}
+  m_GameObject: {fileID: 8020488985742788409}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 4133965223222142}
+  m_Father: {fileID: 4151460262151693261}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9087652215105186092
+--- !u!114 &5156497636482978207
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6259120513008189322}
+  m_GameObject: {fileID: 8020488985742788409}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 841b72de2996c5c40bfb394f3d0e0a98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Feedbacks:
-  - {fileID: 3809960975874769257}
-  - {fileID: 6885100597620220887}
+  - {fileID: 958685763875813850}
+  - {fileID: 7358484107148188516}
   InitializationMode: 2
   SafeMode: 3
   Direction: 0
@@ -218,13 +218,13 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls: []
   DebugActive: 0
---- !u!114 &3809960975874769257
+--- !u!114 &958685763875813850
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6259120513008189322}
+  m_GameObject: {fileID: 8020488985742788409}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cdfe4b9b079619143a9748eeee75e698, type: 3}
@@ -260,13 +260,13 @@ MonoBehaviour:
   TargetWorldPosition: {x: 0, y: 0, z: 0}
   Offset: {x: 0, y: 0, z: 0}
   NestParticles: 0
---- !u!114 &6885100597620220887
+--- !u!114 &7358484107148188516
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6259120513008189322}
+  m_GameObject: {fileID: 8020488985742788409}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0c2ce51367856bd49b72678cc4263225, type: 3}
