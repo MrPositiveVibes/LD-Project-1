@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 534935336396706113}
   - component: {fileID: 6505789987761616988}
   - component: {fileID: 4264391538716019586}
+  - component: {fileID: 1479790803875396690}
   m_Layer: 13
   m_Name: Clawbot
   m_TagString: Untagged
@@ -29,8 +30,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 493851444912488902}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -80.4448, y: -1.0544372, z: 0}
-  m_LocalScale: {x: 1.0261654, y: 1.0261654, z: 1.0261654}
+  m_LocalPosition: {x: -74.49, y: -1.0544372, z: 0}
+  m_LocalScale: {x: 1.5228522, y: 1.834085, z: 1.5228522}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -75,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: d031a1559a4c8b04b98691b837bc184c, type: 3}
   m_Color: {r: 0.6047684, g: 0.58440727, b: 0.9056604, a: 1}
   m_FlipX: 0
@@ -138,8 +139,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentHealth: 0
   TemporaryInvulnerable: 0
-  InitialHealth: 40
-  MaximumHealth: 40
+  InitialHealth: 60
+  MaximumHealth: 60
   Invulnerable: 0
   DamageFeedbacks: {fileID: 0}
   FlickerSpriteOnHit: 1
@@ -187,3 +188,22 @@ MonoBehaviour:
   HitNonDamageableFeedback: {fileID: 0}
   FreezeFramesOnHitDuration: 0
   Owner: {fileID: 0}
+--- !u!95 &1479790803875396690
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 493851444912488902}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
