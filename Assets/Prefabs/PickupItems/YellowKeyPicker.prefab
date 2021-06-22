@@ -176,6 +176,7 @@ GameObject:
   - component: {fileID: 3657420208918196479}
   - component: {fileID: 3524670319467929207}
   - component: {fileID: 3579155426660523027}
+  - component: {fileID: 2587136161422750166}
   m_Layer: 0
   m_Name: YellowKeyPicker
   m_TagString: Untagged
@@ -293,3 +294,22 @@ MonoBehaviour:
   PickableIfInventoryIsFull: 0
   DisableObjectWhenDepleted: 1
   PickFeedbacks: {fileID: 5916957321252861150}
+--- !u!95 &2587136161422750166
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3473957124224800907}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4aa2352b9d5a4154eb4c43f72d705d48, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

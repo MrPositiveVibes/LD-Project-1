@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 4125279657474105241}
   - component: {fileID: 4124924317200468929}
   - component: {fileID: 4125198215849316515}
+  - component: {fileID: 2154717238641821832}
   m_Layer: 0
   m_Name: InventoryShotgunPicker
   m_TagString: Untagged
@@ -330,3 +331,22 @@ MonoBehaviour:
   DisableObjectOnPick: 1
   DisableRendererOnPick: 0
   DisableColliderOnPick: 0
+--- !u!95 &2154717238641821832
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4083933990151817863}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3d215571130069c4d83fc79982e037b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

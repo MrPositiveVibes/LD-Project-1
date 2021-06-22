@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 851291238579175765}
   - component: {fileID: 852226543043259745}
   - component: {fileID: 855220155342576001}
+  - component: {fileID: 2050221379734563623}
   m_Layer: 0
   m_Name: InventoryMachineGunPicker
   m_TagString: Untagged
@@ -106,7 +107,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 10, y: 7.5}
+    oldSize: {x: 2, y: 1.5}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -183,6 +184,25 @@ MonoBehaviour:
   Quantity: 25
   PickableIfInventoryIsFull: 0
   DisableObjectWhenDepleted: 0
+--- !u!95 &2050221379734563623
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 738772584930404717}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 39aa9bd5197710f43bb3a2500123c7e6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2743706119255184668
 GameObject:
   m_ObjectHideFlags: 0

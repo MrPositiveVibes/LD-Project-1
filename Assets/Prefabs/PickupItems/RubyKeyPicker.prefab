@@ -176,6 +176,7 @@ GameObject:
   - component: {fileID: 6554837823721412685}
   - component: {fileID: 6402300301326720945}
   - component: {fileID: 6455204260553303961}
+  - component: {fileID: 815804220210960328}
   m_Layer: 0
   m_Name: RubyKeyPicker
   m_TagString: Untagged
@@ -293,3 +294,22 @@ MonoBehaviour:
   PickableIfInventoryIsFull: 0
   DisableObjectWhenDepleted: 1
   PickFeedbacks: {fileID: 2065884902337386761}
+--- !u!95 &815804220210960328
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6342982991730723171}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 97d99195952d9e64fa51ce54268c27d9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

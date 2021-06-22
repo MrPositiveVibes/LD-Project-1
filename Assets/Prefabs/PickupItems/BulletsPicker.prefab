@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1798826280823021416}
   - component: {fileID: 1854873124609103124}
   - component: {fileID: 1855299117946331986}
+  - component: {fileID: 7235938140027432584}
   m_Layer: 0
   m_Name: BulletsPicker
   m_TagString: Untagged
@@ -146,10 +147,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Item: {fileID: 11400000, guid: 9cd89b7e9c427dd44bc210e583aade65, type: 2}
-  Quantity: 25
+  Quantity: 20
   PickableIfInventoryIsFull: 0
   DisableObjectWhenDepleted: 1
   PickFeedbacks: {fileID: 4730848945904956437}
+--- !u!95 &7235938140027432584
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1742687639426303868}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a47884cce82fa0c428d416ed4b17deb7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7254025325733970910
 GameObject:
   m_ObjectHideFlags: 0
