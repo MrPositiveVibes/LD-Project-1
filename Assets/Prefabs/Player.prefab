@@ -325,8 +325,8 @@ MonoBehaviour:
   AbilityPermitted: 1
   BlockingMovementStates: 
   BlockingConditionStates: 
-  DashDistance: 7
-  DashForce: 30
+  DashDistance: 8
+  DashForce: 50
   ResetForcesOnExit: 0
   Aim:
     AimControl: 2

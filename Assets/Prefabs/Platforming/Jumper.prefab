@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3518065256405164604}
   - component: {fileID: 6223337615026647430}
   - component: {fileID: 1675825021180648016}
+  - component: {fileID: 6893524324163501986}
   m_Layer: 0
   m_Name: JumperMMFeedbacks
   m_TagString: Untagged
@@ -46,6 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Feedbacks:
   - {fileID: 1675825021180648016}
+  - {fileID: 6893524324163501986}
   InitializationMode: 2
   SafeMode: 3
   Direction: 0
@@ -112,6 +114,50 @@ MonoBehaviour:
   BoundParticleSystem: {fileID: 4779058562812351965}
   MoveToPosition: 0
   RandomParticleSystems: []
+--- !u!114 &6893524324163501986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2389216658509255197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c2ce51367856bd49b72678cc4263225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Active: 1
+  Label: Sound
+  Chance: 100
+  Timing:
+    TimescaleMode: 0
+    InitialDelay: 0
+    CooldownDuration: 0
+    NumberOfRepeats: 0
+    RepeatForever: 0
+    DelayBetweenRepeats: 1
+    MMFeedbacksDirectionCondition: 0
+    PlayDirection: 0
+    ConstantIntensity: 0
+    UseIntensityInterval: 0
+    IntensityIntervalMin: 0
+    IntensityIntervalMax: 0
+    Sequence: {fileID: 0}
+    TrackID: 0
+    Quantized: 0
+    TargetBPM: 120
+  DebugActive: 0
+  Sfx: {fileID: 8300000, guid: 9c6969aa97f57424093e01835c33cfa8, type: 3}
+  RandomSfx: []
+  TestButton: 0
+  TestStopButton: 0
+  PlayMethod: 0
+  PoolSize: 10
+  MinVolume: 0.5
+  MaxVolume: 0.5
+  MinPitch: 1
+  MaxPitch: 1
+  SfxAudioMixerGroup: {fileID: 0}
 --- !u!1 &5675993234060194566
 GameObject:
   m_ObjectHideFlags: 0
