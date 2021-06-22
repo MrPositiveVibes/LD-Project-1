@@ -52,7 +52,7 @@ Transform:
   m_GameObject: {fileID: 119040}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1115725, y: 1.1115725, z: 1.1115725}
   m_Children:
   - {fileID: 465368}
   - {fileID: 6349347616402308924}
@@ -260,7 +260,7 @@ MonoBehaviour:
   AbilityPermitted: 1
   BlockingMovementStates: 
   BlockingConditionStates: 
-  WalkSpeed: 6
+  WalkSpeed: 8
   MovementSpeedMultiplier: 1
   PushSpeedMultiplier: 1
   StateSpeedMultiplier: 1
@@ -317,7 +317,7 @@ MonoBehaviour:
   BlockingMovementStates: 
   BlockingConditionStates: 
   DashDistance: 5
-  DashForce: 20
+  DashForce: 30
   ResetForcesOnExit: 0
   Aim:
     AimControl: 2
@@ -504,7 +504,7 @@ MonoBehaviour:
   AbilityPermitted: 1
   BlockingMovementStates: 
   BlockingConditionStates: 
-  WallClingingSlowFactor: 0.6
+  WallClingingSlowFactor: 0.811
   RaycastVerticalOffset: 0
   WallClingingTolerance: 0.3
   InputIndependent: 0
@@ -5997,8 +5997,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8200602243586886156}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.47, z: 0}
-  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
+  m_LocalPosition: {x: -0.307, y: 0.232, z: 0}
+  m_LocalScale: {x: 0.5024224, y: 0.5024224, z: 0.5024224}
   m_Children: []
   m_Father: {fileID: 425048}
   m_RootOrder: 3
@@ -6044,7 +6044,7 @@ SpriteRenderer:
   m_SortingLayerID: -1628607475
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2878776438291150895, guid: 7ecd87cf0c9685649a248bb6afd0d70e,
+  m_Sprite: {fileID: 4723107735738678597, guid: 15a61147128ce7d48a60401f950835f2,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
