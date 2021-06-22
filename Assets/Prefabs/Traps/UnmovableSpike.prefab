@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4112144778971051916}
   - component: {fileID: 6763345040331877360}
   - component: {fileID: 5703417233417205680}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: UnmovableSpike
   m_TagString: Untagged
   m_Icon: {fileID: 0}
