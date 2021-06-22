@@ -141,7 +141,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RespawnOnPlayerRespawn: 1
   RepositionToInitOnPlayerRespawn: 0
-  AutoRespawnDuration: 0
+  AutoRespawnDuration: 1
   AutoRespawnAmount: 3
   AutoRespawnRemainingAmount: 3
   IgnoreCheckpointsAlwaysRespawn: 1
