@@ -5853,6 +5853,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8969695640432219090, guid: e9e7fcd270d1f32478f45f251dfd7b60,
+        type: 3}
+      propertyPath: SoundFX
+      value: 
+      objectReference: {fileID: 8300000, guid: d588154fc59d13d439f9c1ce6edaaa62, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e7fcd270d1f32478f45f251dfd7b60, type: 3}
 --- !u!4 &5745169133137272935 stripped
@@ -5880,6 +5885,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 425048}
     m_Modifications:
+    - target: {fileID: 16735162778053054, guid: 34214306f9b126a4b9b83b846a40e78c,
+        type: 3}
+      propertyPath: SoundFX
+      value: 
+      objectReference: {fileID: 8300000, guid: baf24b7388878464689515b6bba4d435, type: 3}
     - target: {fileID: 1732458454377901082, guid: 34214306f9b126a4b9b83b846a40e78c,
         type: 3}
       propertyPath: m_Name
@@ -6054,6 +6064,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 425048}
     m_Modifications:
+    - target: {fileID: 2008262419781172413, guid: 20368e53e3f9b3b41b17256b2f385988,
+        type: 3}
+      propertyPath: Sfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 5e805d1d04bca6f46a8aec456ef97e11, type: 3}
     - target: {fileID: 2143571226558443071, guid: 20368e53e3f9b3b41b17256b2f385988,
         type: 3}
       propertyPath: m_RootOrder
@@ -6383,6 +6398,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3314037434255715984, guid: c362169446e19d946859422e3eca4f19,
+        type: 3}
+      propertyPath: SoundFX
+      value: 
+      objectReference: {fileID: 8300000, guid: f070aa6502c2c0a4c960fafd4ff73c3a, type: 3}
     - target: {fileID: 3617146825634381425, guid: c362169446e19d946859422e3eca4f19,
         type: 3}
       propertyPath: m_Name
@@ -6415,6 +6435,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 425048}
     m_Modifications:
+    - target: {fileID: 2853684336758603035, guid: e729fc29c97fccd40899ed9ec5fda871,
+        type: 3}
+      propertyPath: SoundFX
+      value: 
+      objectReference: {fileID: 8300000, guid: 9ca101124aa810d48b22d91987658405, type: 3}
     - target: {fileID: 5480671254083063439, guid: e729fc29c97fccd40899ed9ec5fda871,
         type: 3}
       propertyPath: m_RootOrder
