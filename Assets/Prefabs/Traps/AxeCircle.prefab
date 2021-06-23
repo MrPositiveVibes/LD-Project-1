@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 352486758069352835}
   - component: {fileID: 1638391335023075990}
   m_Layer: 13
-  m_Name: HammerCircle
+  m_Name: AxeCircle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
