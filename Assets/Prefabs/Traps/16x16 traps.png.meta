@@ -545,9 +545,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 912
+        y: 896
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,9 +566,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 912
+        y: 896
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,9 +587,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,9 +608,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -629,9 +629,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -650,9 +650,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,9 +671,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,9 +692,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -713,9 +713,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,9 +734,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -755,9 +755,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -776,9 +776,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 576
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -797,9 +797,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 640
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -818,9 +818,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 704
-        y: 864
+        y: 832
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -839,9 +839,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -860,9 +860,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -881,9 +881,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -902,9 +902,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -923,9 +923,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -944,9 +944,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -965,9 +965,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -986,9 +986,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1007,9 +1007,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1028,9 +1028,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 576
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1049,9 +1049,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 640
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,9 +1070,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 704
-        y: 816
+        y: 768
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1091,9 +1091,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 768
+        y: 704
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1112,9 +1112,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 768
+        y: 704
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1133,9 +1133,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 768
+        y: 704
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1154,9 +1154,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 768
+        y: 704
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1175,9 +1175,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 768
+        y: 704
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1195,10 +1195,10 @@ TextureImporter:
       name: 16x16 traps_31
       rect:
         serializedVersion: 2
-        x: 320
-        y: 768
+        x: 0
+        y: 640
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1216,10 +1216,10 @@ TextureImporter:
       name: 16x16 traps_32
       rect:
         serializedVersion: 2
-        x: 384
-        y: 768
+        x: 0
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1237,10 +1237,10 @@ TextureImporter:
       name: 16x16 traps_33
       rect:
         serializedVersion: 2
-        x: 448
-        y: 768
+        x: 64
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,10 +1258,10 @@ TextureImporter:
       name: 16x16 traps_34
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
+        x: 128
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,10 +1279,10 @@ TextureImporter:
       name: 16x16 traps_35
       rect:
         serializedVersion: 2
-        x: 576
-        y: 768
+        x: 192
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1300,10 +1300,10 @@ TextureImporter:
       name: 16x16 traps_36
       rect:
         serializedVersion: 2
-        x: 640
-        y: 768
+        x: 256
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1321,10 +1321,10 @@ TextureImporter:
       name: 16x16 traps_37
       rect:
         serializedVersion: 2
-        x: 704
-        y: 768
+        x: 320
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1342,10 +1342,10 @@ TextureImporter:
       name: 16x16 traps_38
       rect:
         serializedVersion: 2
-        x: 0
-        y: 672
+        x: 384
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1363,10 +1363,10 @@ TextureImporter:
       name: 16x16 traps_39
       rect:
         serializedVersion: 2
-        x: 64
-        y: 672
+        x: 448
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1384,10 +1384,10 @@ TextureImporter:
       name: 16x16 traps_40
       rect:
         serializedVersion: 2
-        x: 128
-        y: 672
+        x: 512
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1405,10 +1405,10 @@ TextureImporter:
       name: 16x16 traps_41
       rect:
         serializedVersion: 2
-        x: 192
-        y: 672
+        x: 576
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1426,10 +1426,10 @@ TextureImporter:
       name: 16x16 traps_42
       rect:
         serializedVersion: 2
-        x: 256
-        y: 672
+        x: 640
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,10 +1447,10 @@ TextureImporter:
       name: 16x16 traps_43
       rect:
         serializedVersion: 2
-        x: 0
-        y: 624
+        x: 704
+        y: 576
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1468,10 +1468,10 @@ TextureImporter:
       name: 16x16 traps_44
       rect:
         serializedVersion: 2
-        x: 64
-        y: 624
+        x: 0
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1489,10 +1489,10 @@ TextureImporter:
       name: 16x16 traps_45
       rect:
         serializedVersion: 2
-        x: 128
-        y: 624
+        x: 64
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1510,10 +1510,10 @@ TextureImporter:
       name: 16x16 traps_46
       rect:
         serializedVersion: 2
-        x: 192
-        y: 624
+        x: 128
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1531,10 +1531,10 @@ TextureImporter:
       name: 16x16 traps_47
       rect:
         serializedVersion: 2
-        x: 256
-        y: 624
+        x: 192
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1552,10 +1552,10 @@ TextureImporter:
       name: 16x16 traps_48
       rect:
         serializedVersion: 2
-        x: 320
-        y: 624
+        x: 256
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1573,10 +1573,10 @@ TextureImporter:
       name: 16x16 traps_49
       rect:
         serializedVersion: 2
-        x: 384
-        y: 624
+        x: 320
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1594,10 +1594,10 @@ TextureImporter:
       name: 16x16 traps_50
       rect:
         serializedVersion: 2
-        x: 448
-        y: 624
+        x: 384
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1615,10 +1615,10 @@ TextureImporter:
       name: 16x16 traps_51
       rect:
         serializedVersion: 2
-        x: 512
-        y: 624
+        x: 448
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1636,10 +1636,10 @@ TextureImporter:
       name: 16x16 traps_52
       rect:
         serializedVersion: 2
-        x: 576
-        y: 624
+        x: 512
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1657,10 +1657,10 @@ TextureImporter:
       name: 16x16 traps_53
       rect:
         serializedVersion: 2
-        x: 640
-        y: 624
+        x: 576
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1678,10 +1678,10 @@ TextureImporter:
       name: 16x16 traps_54
       rect:
         serializedVersion: 2
-        x: 704
-        y: 624
+        x: 640
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1699,10 +1699,10 @@ TextureImporter:
       name: 16x16 traps_55
       rect:
         serializedVersion: 2
-        x: 0
-        y: 528
+        x: 704
+        y: 512
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1720,10 +1720,10 @@ TextureImporter:
       name: 16x16 traps_56
       rect:
         serializedVersion: 2
-        x: 64
-        y: 528
+        x: 0
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1741,10 +1741,10 @@ TextureImporter:
       name: 16x16 traps_57
       rect:
         serializedVersion: 2
-        x: 128
-        y: 528
+        x: 64
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1762,10 +1762,10 @@ TextureImporter:
       name: 16x16 traps_58
       rect:
         serializedVersion: 2
-        x: 192
-        y: 528
+        x: 128
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1783,10 +1783,10 @@ TextureImporter:
       name: 16x16 traps_59
       rect:
         serializedVersion: 2
-        x: 256
-        y: 528
+        x: 192
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1804,10 +1804,10 @@ TextureImporter:
       name: 16x16 traps_60
       rect:
         serializedVersion: 2
-        x: 320
-        y: 528
+        x: 256
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1825,10 +1825,10 @@ TextureImporter:
       name: 16x16 traps_61
       rect:
         serializedVersion: 2
-        x: 384
-        y: 528
+        x: 320
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1846,10 +1846,10 @@ TextureImporter:
       name: 16x16 traps_62
       rect:
         serializedVersion: 2
-        x: 448
-        y: 528
+        x: 384
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1867,10 +1867,10 @@ TextureImporter:
       name: 16x16 traps_63
       rect:
         serializedVersion: 2
-        x: 512
-        y: 528
+        x: 448
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1888,10 +1888,10 @@ TextureImporter:
       name: 16x16 traps_64
       rect:
         serializedVersion: 2
-        x: 576
-        y: 528
+        x: 512
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1909,10 +1909,10 @@ TextureImporter:
       name: 16x16 traps_65
       rect:
         serializedVersion: 2
-        x: 640
-        y: 528
+        x: 576
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1930,10 +1930,10 @@ TextureImporter:
       name: 16x16 traps_66
       rect:
         serializedVersion: 2
-        x: 704
-        y: 528
+        x: 640
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1951,10 +1951,10 @@ TextureImporter:
       name: 16x16 traps_67
       rect:
         serializedVersion: 2
-        x: 0
-        y: 480
+        x: 704
+        y: 448
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1972,10 +1972,10 @@ TextureImporter:
       name: 16x16 traps_68
       rect:
         serializedVersion: 2
-        x: 64
-        y: 480
+        x: 0
+        y: 384
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1993,10 +1993,10 @@ TextureImporter:
       name: 16x16 traps_69
       rect:
         serializedVersion: 2
-        x: 128
-        y: 480
+        x: 0
+        y: 320
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2014,10 +2014,10 @@ TextureImporter:
       name: 16x16 traps_70
       rect:
         serializedVersion: 2
-        x: 192
-        y: 480
+        x: 0
+        y: 256
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2035,10 +2035,10 @@ TextureImporter:
       name: 16x16 traps_71
       rect:
         serializedVersion: 2
-        x: 256
-        y: 480
+        x: 64
+        y: 256
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2056,10 +2056,10 @@ TextureImporter:
       name: 16x16 traps_72
       rect:
         serializedVersion: 2
-        x: 320
-        y: 480
+        x: 128
+        y: 256
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2077,10 +2077,10 @@ TextureImporter:
       name: 16x16 traps_73
       rect:
         serializedVersion: 2
-        x: 384
-        y: 480
+        x: 192
+        y: 256
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2098,10 +2098,10 @@ TextureImporter:
       name: 16x16 traps_74
       rect:
         serializedVersion: 2
-        x: 448
-        y: 480
+        x: 0
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2119,10 +2119,10 @@ TextureImporter:
       name: 16x16 traps_75
       rect:
         serializedVersion: 2
-        x: 512
-        y: 480
+        x: 64
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2140,10 +2140,10 @@ TextureImporter:
       name: 16x16 traps_76
       rect:
         serializedVersion: 2
-        x: 576
-        y: 480
+        x: 128
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2161,10 +2161,10 @@ TextureImporter:
       name: 16x16 traps_77
       rect:
         serializedVersion: 2
-        x: 640
-        y: 480
+        x: 192
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2182,10 +2182,10 @@ TextureImporter:
       name: 16x16 traps_78
       rect:
         serializedVersion: 2
-        x: 704
-        y: 480
+        x: 256
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2203,10 +2203,10 @@ TextureImporter:
       name: 16x16 traps_79
       rect:
         serializedVersion: 2
-        x: 0
-        y: 432
+        x: 320
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2224,10 +2224,10 @@ TextureImporter:
       name: 16x16 traps_80
       rect:
         serializedVersion: 2
-        x: 64
-        y: 432
+        x: 384
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2245,10 +2245,10 @@ TextureImporter:
       name: 16x16 traps_81
       rect:
         serializedVersion: 2
-        x: 128
-        y: 432
+        x: 448
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2266,10 +2266,10 @@ TextureImporter:
       name: 16x16 traps_82
       rect:
         serializedVersion: 2
-        x: 192
-        y: 432
+        x: 512
+        y: 192
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2287,10 +2287,10 @@ TextureImporter:
       name: 16x16 traps_83
       rect:
         serializedVersion: 2
-        x: 256
-        y: 432
+        x: 0
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2308,10 +2308,10 @@ TextureImporter:
       name: 16x16 traps_84
       rect:
         serializedVersion: 2
-        x: 320
-        y: 432
+        x: 64
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2329,10 +2329,10 @@ TextureImporter:
       name: 16x16 traps_85
       rect:
         serializedVersion: 2
-        x: 384
-        y: 432
+        x: 128
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2350,10 +2350,10 @@ TextureImporter:
       name: 16x16 traps_86
       rect:
         serializedVersion: 2
-        x: 448
-        y: 432
+        x: 192
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2371,10 +2371,10 @@ TextureImporter:
       name: 16x16 traps_87
       rect:
         serializedVersion: 2
-        x: 512
-        y: 432
+        x: 256
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2392,10 +2392,10 @@ TextureImporter:
       name: 16x16 traps_88
       rect:
         serializedVersion: 2
-        x: 576
-        y: 432
+        x: 320
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2413,10 +2413,10 @@ TextureImporter:
       name: 16x16 traps_89
       rect:
         serializedVersion: 2
-        x: 640
-        y: 432
+        x: 384
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2434,10 +2434,10 @@ TextureImporter:
       name: 16x16 traps_90
       rect:
         serializedVersion: 2
-        x: 704
-        y: 432
+        x: 448
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2455,10 +2455,10 @@ TextureImporter:
       name: 16x16 traps_91
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
+        x: 512
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2476,10 +2476,10 @@ TextureImporter:
       name: 16x16 traps_92
       rect:
         serializedVersion: 2
-        x: 0
-        y: 336
+        x: 576
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,10 +2497,10 @@ TextureImporter:
       name: 16x16 traps_93
       rect:
         serializedVersion: 2
-        x: 0
-        y: 288
+        x: 640
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2518,10 +2518,10 @@ TextureImporter:
       name: 16x16 traps_94
       rect:
         serializedVersion: 2
-        x: 64
-        y: 288
+        x: 704
+        y: 128
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2539,10 +2539,10 @@ TextureImporter:
       name: 16x16 traps_95
       rect:
         serializedVersion: 2
-        x: 128
-        y: 288
+        x: 0
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2560,10 +2560,10 @@ TextureImporter:
       name: 16x16 traps_96
       rect:
         serializedVersion: 2
-        x: 192
-        y: 288
+        x: 64
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2581,10 +2581,10 @@ TextureImporter:
       name: 16x16 traps_97
       rect:
         serializedVersion: 2
-        x: 0
-        y: 240
+        x: 128
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2602,10 +2602,10 @@ TextureImporter:
       name: 16x16 traps_98
       rect:
         serializedVersion: 2
-        x: 64
-        y: 240
+        x: 192
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2623,10 +2623,10 @@ TextureImporter:
       name: 16x16 traps_99
       rect:
         serializedVersion: 2
-        x: 128
-        y: 240
+        x: 256
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2644,10 +2644,10 @@ TextureImporter:
       name: 16x16 traps_100
       rect:
         serializedVersion: 2
-        x: 192
-        y: 240
+        x: 320
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2665,10 +2665,10 @@ TextureImporter:
       name: 16x16 traps_101
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
+        x: 384
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2686,10 +2686,10 @@ TextureImporter:
       name: 16x16 traps_102
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
+        x: 448
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2707,10 +2707,10 @@ TextureImporter:
       name: 16x16 traps_103
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
+        x: 512
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2728,10 +2728,10 @@ TextureImporter:
       name: 16x16 traps_104
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
+        x: 576
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2749,10 +2749,10 @@ TextureImporter:
       name: 16x16 traps_105
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
+        x: 640
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2770,10 +2770,10 @@ TextureImporter:
       name: 16x16 traps_106
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
+        x: 704
+        y: 64
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2791,10 +2791,10 @@ TextureImporter:
       name: 16x16 traps_107
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
+        x: 0
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2812,10 +2812,10 @@ TextureImporter:
       name: 16x16 traps_108
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
+        x: 64
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2833,10 +2833,10 @@ TextureImporter:
       name: 16x16 traps_109
       rect:
         serializedVersion: 2
-        x: 512
-        y: 192
+        x: 128
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2854,10 +2854,10 @@ TextureImporter:
       name: 16x16 traps_110
       rect:
         serializedVersion: 2
-        x: 0
-        y: 144
+        x: 192
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2875,10 +2875,10 @@ TextureImporter:
       name: 16x16 traps_111
       rect:
         serializedVersion: 2
-        x: 64
-        y: 144
+        x: 256
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2896,10 +2896,10 @@ TextureImporter:
       name: 16x16 traps_112
       rect:
         serializedVersion: 2
-        x: 128
-        y: 144
+        x: 320
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2917,10 +2917,10 @@ TextureImporter:
       name: 16x16 traps_113
       rect:
         serializedVersion: 2
-        x: 192
-        y: 144
+        x: 384
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2938,10 +2938,10 @@ TextureImporter:
       name: 16x16 traps_114
       rect:
         serializedVersion: 2
-        x: 256
-        y: 144
+        x: 448
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2959,10 +2959,10 @@ TextureImporter:
       name: 16x16 traps_115
       rect:
         serializedVersion: 2
-        x: 320
-        y: 144
+        x: 512
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2980,10 +2980,10 @@ TextureImporter:
       name: 16x16 traps_116
       rect:
         serializedVersion: 2
-        x: 384
-        y: 144
+        x: 576
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3001,10 +3001,10 @@ TextureImporter:
       name: 16x16 traps_117
       rect:
         serializedVersion: 2
-        x: 448
-        y: 144
+        x: 640
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3022,10 +3022,10 @@ TextureImporter:
       name: 16x16 traps_118
       rect:
         serializedVersion: 2
-        x: 512
-        y: 144
+        x: 704
+        y: 0
         width: 64
-        height: 48
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3035,573 +3035,6 @@ TextureImporter:
       bones: []
       spriteID: df0969e52c18d70d0800000000000000
       internalID: -3423437469921144579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_119
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 144
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fc76238246462b50800000000000000
-      internalID: 6568014358048570612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_120
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 144
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cacaad2a8864eb6a0800000000000000
-      internalID: -6431625665176752980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_121
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 144
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 256b8108d7cd7d720800000000000000
-      internalID: 2871005719050106450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_122
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a78e6c365c26b1d0800000000000000
-      internalID: -3335429725128587357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_123
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b484a017103a40bd0800000000000000
-      internalID: -2664825852909696949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_124
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 773dde2fe8e1545f0800000000000000
-      internalID: -773178161714310281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_125
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26dc21455bf881090800000000000000
-      internalID: -8063537123844502174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_126
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c67a082820c356630800000000000000
-      internalID: 3919605032172955500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_127
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4afeb880c177f30b0800000000000000
-      internalID: -5746743637215285340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_128
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f13be662ca5e84d0800000000000000
-      internalID: -3130464899979070987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_129
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc069a0cb5d423510800000000000000
-      internalID: 1527368280101707983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_130
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ff04140eb13ca820800000000000000
-      internalID: 2930772149693321206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_131
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dfb513b126fc42970800000000000000
-      internalID: 8729329998020828157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_132
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d94041ce4611aabb0800000000000000
-      internalID: -4924104117421079395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_133
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 48
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e2c6c68241a29160800000000000000
-      internalID: 7030859275379852003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_134
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e78af69b3f364050800000000000000
-      internalID: 5784380296572602343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_135
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8762404a80fcf09f0800000000000000
-      internalID: -499953397596412296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_136
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f23c0641e46e7bd0800000000000000
-      internalID: -2630554213632167176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_137
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 202d5a8d9710d3940800000000000000
-      internalID: 5277375961185505794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_138
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dfd4a8eb279d179b0800000000000000
-      internalID: -5084043417478345219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_139
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0cdfb41908466980800000000000000
-      internalID: -8546064039048913905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_140
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ef0f29a697db5f90800000000000000
-      internalID: -6963735356714840088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_141
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c3529f61cc4fc0b0800000000000000
-      internalID: -5706257809170869311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_142
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84bc213f01f1803d0800000000000000
-      internalID: -3240305774235038904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_143
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eebfcb54f43983d50800000000000000
-      internalID: 6717280812904807406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_144
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4225557b6b5803bd0800000000000000
-      internalID: -2652473160714857948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 traps_145
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 0
-        width: 64
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 899b768fb5675f790800000000000000
-      internalID: -7496955867306673768
       vertices: []
       indices: 
       edges: []
