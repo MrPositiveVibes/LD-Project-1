@@ -487,12 +487,12 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 0.4428258, g: 0.056461357, b: 0.5754717, a: 0}
-    m_HighlightedColor: {r: 0.41766813, g: 0.014738322, b: 0.6509434, a: 1}
-    m_PressedColor: {r: 0.8301887, g: 0.06578848, b: 0.11015255, a: 1}
-    m_SelectedColor: {r: 0.17716151, g: 0.8584906, b: 0.10852615, a: 1}
+    m_HighlightedColor: {r: 0.045656744, g: 0.8962264, b: 0.064851984, a: 1}
+    m_PressedColor: {r: 0.59786904, g: 0.061249524, b: 0.8773585, a: 1}
+    m_SelectedColor: {r: 0.6825913, g: 0.109803915, b: 0.85882354, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1.63
-    m_FadeDuration: 0.1
+    m_FadeDuration: 0.4
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
     m_PressedSprite: {fileID: 0}
@@ -592,10 +592,10 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 776651357}
-          m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-          m_MethodName: Play
-          m_Mode: 1
+        - m_Target: {fileID: 49509759}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -5691,12 +5691,12 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 0.4469377, g: 0.039515823, b: 0.5660378, a: 0}
-    m_HighlightedColor: {r: 0.6027644, g: 0.11372546, b: 0.8862745, a: 1}
-    m_PressedColor: {r: 0.8301887, g: 0.06578848, b: 0.11015255, a: 1}
-    m_SelectedColor: {r: 0.17716151, g: 0.8584906, b: 0.10852615, a: 1}
+    m_HighlightedColor: {r: 0.09671361, g: 0.9150943, b: 0.03798501, a: 1}
+    m_PressedColor: {r: 0.56664145, g: 0.022694863, b: 0.7075472, a: 1}
+    m_SelectedColor: {r: 0.68822443, g: 0.109803915, b: 0.85882354, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
+    m_FadeDuration: 0.4
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
     m_PressedSprite: {fileID: 0}
@@ -11023,10 +11023,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 0}
-    m_HighlightedColor: {r: 0.6027644, g: 0.11372546, b: 0.8862745, a: 1}
-    m_PressedColor: {r: 0.8301887, g: 0.06578848, b: 0.11015255, a: 1}
-    m_SelectedColor: {r: 0.17716151, g: 0.8584906, b: 0.10852615, a: 1}
+    m_NormalColor: {r: 0.46226418, g: 0.032271255, b: 0.41975886, a: 0}
+    m_HighlightedColor: {r: 0.14517702, g: 0.8862745, b: 0.11372546, a: 1}
+    m_PressedColor: {r: 0.8085877, g: 0.06666668, b: 0.83137256, a: 1}
+    m_SelectedColor: {r: 0.7700909, g: 0.054901984, b: 0.9254902, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -59852,12 +59852,12 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 0.4528302, g: 0.031612657, b: 0.44186607, a: 0}
-    m_HighlightedColor: {r: 0.6027644, g: 0.11372546, b: 0.8862745, a: 1}
-    m_PressedColor: {r: 0.8301887, g: 0.06578848, b: 0.11015255, a: 1}
-    m_SelectedColor: {r: 0.17716151, g: 0.8584906, b: 0.10852615, a: 1}
+    m_HighlightedColor: {r: 0.1318573, g: 0.9056604, b: 0.063225314, a: 1}
+    m_PressedColor: {r: 0.5669351, g: 0.053346362, b: 0.764151, a: 1}
+    m_SelectedColor: {r: 0.78079396, g: 0.109803915, b: 0.85882354, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
+    m_FadeDuration: 0.4
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
     m_PressedSprite: {fileID: 0}
@@ -84109,8 +84109,8 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b0995816e6f8e6f48b93346387c2d6ca, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.183
-  m_Pitch: 1
+  m_Volume: 0.145
+  m_Pitch: 1.5
   Loop: 1
   Mute: 0
   Spatialize: 0
