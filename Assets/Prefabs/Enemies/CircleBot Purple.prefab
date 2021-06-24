@@ -173,7 +173,7 @@ MonoBehaviour:
   TargetLayerMask:
     serializedVersion: 2
     m_Bits: 512
-  DamageCaused: 20
+  DamageCaused: 10
   DamageCausedKnockbackType: 1
   DamageCausedKnockbackDirection: 0
   DamageCausedKnockbackForce: {x: 10, y: 2}
