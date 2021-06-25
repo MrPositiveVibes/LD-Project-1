@@ -152,7 +152,7 @@ MonoBehaviour:
     Delay: 0
   - PathElementPosition: {x: 0.020355225, y: 9.580868, z: 0}
     Delay: 0
-  MovementSpeed: 1
+  MovementSpeed: 2
   AccelerationType: 0
   Acceleration:
     serializedVersion: 2
@@ -180,7 +180,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   UpdateMode: 0
   MinDistanceToGoal: 0.1
-  OnlyMovesWhenPlayerIsColliding: 0
+  OnlyMovesWhenPlayerIsColliding: 1
   OnlyMovesWhenCharacterIsColliding: 0
   ResetPositionWhenPlayerRespawns: 0
   ScriptActivated: 0
