@@ -56,6 +56,7 @@ GameObject:
   - component: {fileID: -4379235191117154819}
   - component: {fileID: -1281828984777729907}
   - component: {fileID: -155492097602348289}
+  - component: {fileID: 3887789656053047953}
   m_Layer: 0
   m_Name: EndLevelJumpPad
   m_TagString: Untagged
@@ -172,6 +173,25 @@ MonoBehaviour:
   JumpPlatformBoost: 300
   CanBeActivatedFromBelow: 1
   ActivationFeedback: {fileID: 7264337110681945746}
+--- !u!95 &3887789656053047953
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8120694239111098492}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: edbdffedc90bdd2489474decce3e7e3f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &2199291899575959704
 PrefabInstance:
   m_ObjectHideFlags: 0

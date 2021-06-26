@@ -330,7 +330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Item: {fileID: 11400000, guid: 7415666655b546b45b7b15f39d987cfe, type: 2}
-  Quantity: 3
+  Quantity: 2
   PickableIfInventoryIsFull: 0
   DisableObjectWhenDepleted: 1
   PickFeedbacks: {fileID: 104906098051754917}
