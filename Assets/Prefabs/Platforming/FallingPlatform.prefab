@@ -124,8 +124,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2ea465c9684f96b42d2d13eefd088, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TimeBeforeFall: 0.15
-  FallSpeed: 6
+  TimeBeforeFall: 0.1
+  FallSpeed: 8
   Tolerance: 0.1
 --- !u!114 &1405496683410295745
 MonoBehaviour:
