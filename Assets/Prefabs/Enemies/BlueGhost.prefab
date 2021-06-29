@@ -1010,7 +1010,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Label: 
   ChangeDirectionOnWall: 1
-  AvoidFalling: 0
+  AvoidFalling: 1
   HoleDetectionOffset: {x: 0, y: 0, z: 0}
   HoleDetectionRaycastLength: 1
   UseCustomLayermask: 0
