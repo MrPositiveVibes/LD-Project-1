@@ -143,7 +143,7 @@ MonoBehaviour:
   ProjectileSpawnTransform: {fileID: 0}
   ProjectileSpawnOffset: {x: 0.7, y: 0, z: 0}
   ProjectilesPerShot: 1
-  Spread: {x: 0, y: 0, z: 0}
+  Spread: {x: 0, y: 1.06, z: 0}
   RotateWeaponOnSpread: 0
   RandomSpread: 1
   SpawnPosition: {x: -79.78409, y: -3.9171877, z: 0}
@@ -10362,7 +10362,7 @@ MonoBehaviour:
     Quantized: 0
     TargetBPM: 120
   DebugActive: 0
-  Sfx: {fileID: 8300000, guid: 7e992ab4aafc96e47b6bb8cacb5bc9e5, type: 3}
+  Sfx: {fileID: 8300000, guid: 5d04a98f7792bd74ba97dff0dcba73cd, type: 3}
   RandomSfx: []
   TestButton: 0
   TestStopButton: 0
@@ -10370,8 +10370,8 @@ MonoBehaviour:
   PoolSize: 10
   MinVolume: 1
   MaxVolume: 1
-  MinPitch: 1
-  MaxPitch: 1
+  MinPitch: 0.8
+  MaxPitch: 0.8
   SfxAudioMixerGroup: {fileID: 0}
 --- !u!114 &5989462295051335310
 MonoBehaviour:

@@ -49,9 +49,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -76,7 +79,7 @@ SpriteRenderer:
   m_SortingLayerID: -1628607475
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a66a5ffb0389f7744ba65384cd163f0c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 85457c6ad08f1774b8da638968d903be, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -104,7 +107,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2, y: 2}
+    oldSize: {x: 1.7, y: 1.1}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -157,6 +160,10 @@ MonoBehaviour:
   ProjectileIsFacingRight: 1
   InitialInvulnerabilityDuration: 0
   DamageOwner: 0
+  SpawnSecurityCheck: 0
+  SpawnSecurityCheckLayerMask:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &114000012788668036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -181,7 +188,7 @@ MonoBehaviour:
   DamageTakenDamageable: 5
   DamageTakenNonDamageable: 10
   DamageTakenKnockbackType: 0
-  DamagedTakenKnockbackDirection: 0
+  DamageTakenKnockbackDirection: 0
   DamageTakenKnockbackForce: {x: 0, y: 0}
   DamageTakenInvincibilityDuration: 0
   HitDamageableFeedback: {fileID: 0}
@@ -205,19 +212,19 @@ MonoBehaviour:
   InitialHealth: 10
   MaximumHealth: 10
   Invulnerable: 0
-  DamageEffect: {fileID: 0}
-  DamageSfx: {fileID: 0}
   DamageFeedbacks: {fileID: 6827168327657764305}
   FlickerSpriteOnHit: 1
+  FlickerColor: {r: 1, g: 0.078431375, b: 0.078431375, a: 1}
   ImmuneToKnockback: 0
-  DeathEffect: {fileID: 100000, guid: fe2e3926fa08f87458a401c9fafe1e98, type: 3}
   DeathFeedbacks: {fileID: 5899266940824776853}
   DestroyOnDeath: 1
   DelayBeforeDestruction: 0
   CollisionsOffOnDeath: 1
+  GravityOffOnDeath: 0
   PointsWhenDestroyed: 0
   VibrateOnDeath: 0
   RespawnAtInitialLocation: 0
+  ApplyDeathForce: 1
   DeathForce: {x: 0, y: 10}
   ResetForcesOnDeath: 0
 --- !u!1 &7758844376465442526
@@ -267,6 +274,34 @@ MonoBehaviour:
   Feedbacks:
   - {fileID: 1126261772090462416}
   InitializationMode: 2
+  SafeMode: 3
+  Direction: 0
+  AutoChangeDirectionOnEnd: 0
+  AutoPlayOnStart: 0
+  AutoPlayOnEnable: 0
+  DurationMultiplier: 1
+  DisplayFullDurationDetails: 0
+  CooldownDuration: 0
+  InitialDelay: 0
+  FeedbacksIntensity: 1
+  Events:
+    TriggerMMFeedbacksEvents: 0
+    TriggerUnityEvents: 1
+    OnPlay:
+      m_PersistentCalls:
+        m_Calls: []
+    OnPause:
+      m_PersistentCalls:
+        m_Calls: []
+    OnResume:
+      m_PersistentCalls:
+        m_Calls: []
+    OnRevert:
+      m_PersistentCalls:
+        m_Calls: []
+    OnComplete:
+      m_PersistentCalls:
+        m_Calls: []
   DebugActive: 0
 --- !u!114 &1126261772090462416
 MonoBehaviour:
@@ -284,15 +319,31 @@ MonoBehaviour:
   Label: Particles Instantiation
   Chance: 100
   Timing:
+    TimescaleMode: 0
     InitialDelay: 0
     CooldownDuration: 0
     NumberOfRepeats: 0
     RepeatForever: 0
     DelayBetweenRepeats: 1
+    MMFeedbacksDirectionCondition: 0
+    PlayDirection: 0
+    ConstantIntensity: 0
+    UseIntensityInterval: 0
+    IntensityIntervalMin: 0
+    IntensityIntervalMax: 0
+    Sequence: {fileID: 0}
+    TrackID: 0
+    Quantized: 0
+    TargetBPM: 120
   DebugActive: 0
   Mode: 1
+  CachedRecycle: 1
   ParticlesPrefab: {fileID: 19800000, guid: fe2e3926fa08f87458a401c9fafe1e98, type: 3}
+  RandomParticlePrefabs: []
+  PositionMode: 0
   InstantiateParticlesPosition: {fileID: 0}
+  TargetWorldPosition: {x: 0, y: 0, z: 0}
+  Offset: {x: 0, y: 0, z: 0}
   NestParticles: 0
 --- !u!1 &8300447195418189332
 GameObject:
@@ -339,4 +390,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Feedbacks: []
   InitializationMode: 2
+  SafeMode: 3
+  Direction: 0
+  AutoChangeDirectionOnEnd: 0
+  AutoPlayOnStart: 0
+  AutoPlayOnEnable: 0
+  DurationMultiplier: 1
+  DisplayFullDurationDetails: 0
+  CooldownDuration: 0
+  InitialDelay: 0
+  FeedbacksIntensity: 1
+  Events:
+    TriggerMMFeedbacksEvents: 0
+    TriggerUnityEvents: 1
+    OnPlay:
+      m_PersistentCalls:
+        m_Calls: []
+    OnPause:
+      m_PersistentCalls:
+        m_Calls: []
+    OnResume:
+      m_PersistentCalls:
+        m_Calls: []
+    OnRevert:
+      m_PersistentCalls:
+        m_Calls: []
+    OnComplete:
+      m_PersistentCalls:
+        m_Calls: []
   DebugActive: 0
