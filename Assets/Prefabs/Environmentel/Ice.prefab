@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d1ed657c7c3a8047b0001b430ef66b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Friction: 0.1
+  Friction: 0.9
   ForceApplicationMode: 0
   AddedForce: {x: 0, y: 0}
   OnlyApplyForceIfGrounded: 0
