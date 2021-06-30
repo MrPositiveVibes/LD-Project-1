@@ -121,7 +121,6 @@ GameObject:
   - component: {fileID: 4815332796134847233}
   - component: {fileID: 4818240185748476581}
   - component: {fileID: 4818407499153009539}
-  - component: {fileID: 4817995986950689939}
   - component: {fileID: 4815226935471177989}
   - component: {fileID: 4817874783699153225}
   - component: {fileID: 4818465593831458145}
@@ -610,37 +609,6 @@ MonoBehaviour:
   TouchTheGroundFeedback: {fileID: 0}
   MinimumAirTimeBeforeFeedback: 0.2
   StopWalkingWhenCollidingWithAWall: 0
---- !u!114 &4817995986950689939
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4850077455741503251}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f1c1a8bab4d234998bcbc559bb58fa11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  AbilityStartFeedbacks: {fileID: 0}
-  AbilityStopFeedbacks: {fileID: 0}
-  AbilityPermitted: 1
-  BlockingMovementStates: 
-  BlockingConditionStates: 
-  NumberOfJumps: 3
-  JumpHeight: 6
-  JumpRestrictions: 1
-  ResetCameraOffsetOnJump: 0
-  CanJumpDownOneWayPlatforms: 1
-  JumpIsProportionalToThePressTime: 1
-  JumpMinimumAirTime: 0.1
-  JumpReleaseForceFactor: 2
-  CoyoteTime: 0
-  InputBufferDuration: 0
-  OneWayPlatformsJumpCollisionOffDuration: 0.3
-  MovingPlatformsJumpCollisionOffDuration: 0.05
-  AirJumpFeedbacks: {fileID: 0}
-  NumberOfJumpsLeft: 0
 --- !u!114 &4815226935471177989
 MonoBehaviour:
   m_ObjectHideFlags: 0
