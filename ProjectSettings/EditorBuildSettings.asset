@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/CorgiEngine/Common/Scenes/SplashScreen.unity
     guid: 7b96552fd1198fa4eaae54a2f975645e
-  - enabled: 0
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
   - enabled: 0
     path: Assets/CorgiEngine/Common/Scenes/StartScreen.unity
     guid: b9cf7e391a5874f80a0485164885fe54
-  - enabled: 0
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreen.unity
     guid: d89b77a7a68c1844280c6ff2e49f95b8
   - enabled: 0
@@ -203,13 +203,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/CorgiEngine/Demos/RetroAdventure/RetroAdventureGameOver.unity
     guid: aba2daab4ea9f82428c58d957862f82d
-  - enabled: 0
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenBigText.unity
     guid: dedb2bed56a01c241be42c5c5b5748ca
-  - enabled: 0
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenFastFade.unity
     guid: 8101c376367d6e44f84e602722e5ac10
-  - enabled: 0
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
     guid: 945e5b97212e8e74ebcd35bddde3970c
   - enabled: 0
@@ -228,11 +228,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Tutorial.unity
     guid: 10ca8e9a39893f744bdaad9a9a340407
   - enabled: 1
-    path: Assets/Scenes/Ed's Level.unity
-    guid: a841f0bd9f0f96840a0132b65c9230d8
-  - enabled: 1
     path: Assets/Scenes/Natures Path.unity
     guid: 3f315d4aafa35344abab73971ef6e172
+  - enabled: 1
+    path: Assets/Scenes/Ed's Level.unity
+    guid: a841f0bd9f0f96840a0132b65c9230d8
   - enabled: 1
     path: Assets/Scenes/Abdul Level.unity
     guid: 2f44593c270c7e9488189cde2f85a435
