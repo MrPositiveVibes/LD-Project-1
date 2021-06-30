@@ -61,7 +61,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8530174623697009732
 Transform:
@@ -184,6 +184,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: JumperMMFeedbacks
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557542871865176144, guid: 00c7e4eb80b927b4aaf87e51506d87cc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3640221193293037681, guid: 00c7e4eb80b927b4aaf87e51506d87cc,
         type: 3}
@@ -362,6 +367,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Particles
+      objectReference: {fileID: 0}
+    - target: {fileID: 8831859893040907915, guid: e1fde29ea2828d042a4d83e632e8fe75,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1fde29ea2828d042a4d83e632e8fe75, type: 3}
