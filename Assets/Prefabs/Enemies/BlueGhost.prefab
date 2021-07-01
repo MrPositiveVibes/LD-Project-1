@@ -232,7 +232,7 @@ MonoBehaviour:
     Quantized: 0
     TargetBPM: 120
   DebugActive: 0
-  Sfx: {fileID: 8300000, guid: fc6a8ed8f767ee7449dc2f51593060a7, type: 3}
+  Sfx: {fileID: 8300000, guid: b786efefbf5a9ee48b218c4d52a4d7d7, type: 3}
   RandomSfx: []
   TestButton: 0
   TestStopButton: 0
@@ -547,7 +547,7 @@ MonoBehaviour:
   DamageCausedKnockbackType: 1
   DamageCausedKnockbackDirection: 0
   DamageCausedKnockbackForce: {x: 10, y: 2}
-  InvincibilityDuration: 0.5
+  InvincibilityDuration: 1
   DamageTakenEveryTime: 0
   DamageTakenDamageable: 0
   DamageTakenNonDamageable: 0
@@ -700,8 +700,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentHealth: 0
   TemporaryInvulnerable: 0
-  InitialHealth: 500
-  MaximumHealth: 500
+  InitialHealth: 100
+  MaximumHealth: 100
   Invulnerable: 0
   DamageFeedbacks: {fileID: 798301465045780990}
   FlickerSpriteOnHit: 1
@@ -1021,7 +1021,7 @@ MonoBehaviour:
   ObstaclesDetectionRaycastOrigin: {x: 0.5, y: 0}
   ResetPositionOnDeath: 1
   BoundsMethod: 0
-  BoundsExtentsLeft: 2
+  BoundsExtentsLeft: 8.05
   BoundsExtentsRight: 1
 --- !u!114 &6998236333207281918
 MonoBehaviour:
