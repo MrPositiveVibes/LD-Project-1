@@ -370,8 +370,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentHealth: 0
   TemporaryInvulnerable: 0
-  InitialHealth: 80
-  MaximumHealth: 80
+  InitialHealth: 100
+  MaximumHealth: 100
   Invulnerable: 0
   DamageFeedbacks: {fileID: 6636049104100518463}
   FlickerSpriteOnHit: 1
