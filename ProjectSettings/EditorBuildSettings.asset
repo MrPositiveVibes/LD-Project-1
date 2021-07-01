@@ -236,4 +236,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Abdul Level.unity
     guid: 2f44593c270c7e9488189cde2f85a435
+  - enabled: 1
+    path: Assets/Scenes/Abdul Level (2).unity
+    guid: 5920b6b6602f9804eb7d31d1d4291465
+  - enabled: 1
+    path: Assets/Scenes/Abdul Level (3).unity
+    guid: 57eaaea00b3eaa84aa0c30e710b10381
+  - enabled: 1
+    path: Assets/Scenes/Abdul Level (4).unity
+    guid: 3850cdba0c98a7e45a390aee015a8f50
+  - enabled: 1
+    path: Assets/Scenes/Abdul Level (5).unity
+    guid: 3289872d95838c048acb000e2b651d31
   m_configObjects: {}
