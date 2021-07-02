@@ -8,15 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/CorgiEngine/Common/Scenes/SplashScreen.unity
     guid: 7b96552fd1198fa4eaae54a2f975645e
-  - enabled: 1
-    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
-    guid: 888394d52616e5e42b3b54c3f2bbd3eb
   - enabled: 0
     path: Assets/CorgiEngine/Common/Scenes/StartScreen.unity
     guid: b9cf7e391a5874f80a0485164885fe54
-  - enabled: 1
-    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreen.unity
-    guid: d89b77a7a68c1844280c6ff2e49f95b8
   - enabled: 0
     path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
     guid: 38b3bbb0fec788241870d54b46b03e47
@@ -203,15 +197,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/CorgiEngine/Demos/RetroAdventure/RetroAdventureGameOver.unity
     guid: aba2daab4ea9f82428c58d957862f82d
-  - enabled: 1
-    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenBigText.unity
-    guid: dedb2bed56a01c241be42c5c5b5748ca
-  - enabled: 1
-    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenFastFade.unity
-    guid: 8101c376367d6e44f84e602722e5ac10
-  - enabled: 1
-    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
-    guid: 945e5b97212e8e74ebcd35bddde3970c
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
@@ -221,7 +206,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main Menu.unity
     guid: e332bf59c0d69694eb020c2a399899db
   - enabled: 1
@@ -230,7 +215,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Natures Path.unity
     guid: 3f315d4aafa35344abab73971ef6e172
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Ed's Level.unity
     guid: a841f0bd9f0f96840a0132b65c9230d8
   - enabled: 1
@@ -248,4 +233,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Abdul Level (5).unity
     guid: 3289872d95838c048acb000e2b651d31
+  - enabled: 1
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
+    guid: 888394d52616e5e42b3b54c3f2bbd3eb
+  - enabled: 1
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreen.unity
+    guid: d89b77a7a68c1844280c6ff2e49f95b8
+  - enabled: 1
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenBigText.unity
+    guid: dedb2bed56a01c241be42c5c5b5748ca
+  - enabled: 1
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenFastFade.unity
+    guid: 8101c376367d6e44f84e602722e5ac10
+  - enabled: 1
+    path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
+    guid: 945e5b97212e8e74ebcd35bddde3970c
   m_configObjects: {}
